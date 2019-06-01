@@ -14,3 +14,6 @@
 	path = sources/meta-intel
 	url = git://git.yoctoproject.org/meta-intel
 	branch = rocko
+[submodule "sources/meta-oracle-java"]
+	path = sources/meta-oracle-java
+	url = git://git.yoctoproject.org/meta-oracle-java
