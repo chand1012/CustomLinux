@@ -3,3 +3,5 @@ build/cache/*
 build/sstate-cache/*
 build/bitbake*
 build/downloads/*
+build/conf/sanity_info
+build/conf/templateconf.cfg
