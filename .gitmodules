@@ -1,19 +1,19 @@
 [submodule "sources/meta-openembedded"]
 	path = sources/meta-openembedded
 	url = https://github.com/openembedded/meta-openembedded.git
-	branch = rocko
+	branch = krogoth
 [submodule "sources/openembedded-core"]
 	path = sources/openembedded-core
 	url = https://github.com/openembedded/openembedded-core.git
-	branch = rocko
+	branch = krogoth
 [submodule "sources/poky"]
 	path = sources/poky
 	url = git://git.yoctoproject.org/poky
-	branch = rocko
+	branch = krogoth
 [submodule "sources/meta-intel"]
 	path = sources/meta-intel
 	url = git://git.yoctoproject.org/meta-intel
-	branch = rocko
+	branch = krogoth
 
 [submodule "sources/meta-java"]
 	path = sources/meta-java
