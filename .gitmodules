@@ -1,17 +1,12 @@
-[submodule "sources/meta-openembedded"]
-	path = sources/meta-openembedded
-	url = https://github.com/openembedded/meta-openembedded.git
-	branch = master
-[submodule "sources/openembedded-core"]
-	path = sources/openembedded-core
-	url = https://github.com/openembedded/openembedded-core.git
-	branch = master
 [submodule "sources/poky"]
 	path = sources/poky
 	url = git://git.yoctoproject.org/poky
-	branch = master
 [submodule "sources/meta-intel"]
 	path = sources/meta-intel
 	url = git://git.yoctoproject.org/meta-intel
-	branch = master
-
+[submodule "sources/meta-openembedded"]
+	path = sources/meta-openembedded
+	url = git@github.com:openembedded/meta-openembedded.git
+[submodule "sources/openembedded-core"]
+	path = sources/openembedded-core
+	url = git@github.com:openembedded/openembedded-core.git
