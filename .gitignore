@@ -5,3 +5,4 @@ build/bitbake*
 build/downloads/*
 build/conf/sanity_info
 build/conf/templateconf.cfg
+build/log
