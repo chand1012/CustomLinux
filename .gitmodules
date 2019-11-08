@@ -1,0 +1,16 @@
+[submodule "sources/poky"]
+	path = sources/poky
+	url = https://github.com/kraj/poky.git
+	branch = rocko
+[submodule "sources/meta-raspberrypi"]
+	path = sources/meta-raspberrypi
+	url = https://github.com/agherzan/meta-raspberrypi.git
+	branch = rocko
+[submodule "sources/openembedded-core"]
+	path = sources/openembedded-core
+	url = https://github.com/openembedded/openembedded-core.git
+	branch = rocko
+[submodule "sources/meta-openembedded"]
+	path = sources/meta-openembedded
+	url = https://github.com/openembedded/meta-openembedded.git
+	branch = rocko
