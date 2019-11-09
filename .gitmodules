@@ -17,3 +17,4 @@
 [submodule "sources/meta-rpi"]
 	path = sources/meta-rpi
 	url = https://github.com/jumpnow/meta-rpi.git
+	branch = rocko
