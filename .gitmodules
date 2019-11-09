@@ -14,3 +14,6 @@
 	path = sources/meta-openembedded
 	url = https://github.com/openembedded/meta-openembedded.git
 	branch = rocko
+[submodule "sources/meta-rpi"]
+	path = sources/meta-rpi
+	url = https://github.com/jumpnow/meta-rpi.git
