@@ -17,8 +17,3 @@
 [submodule "sources/meta-rpi"]
 	path = sources/meta-rpi
 	url = https://github.com/jumpnow/meta-rpi.git
-	branch = warrior
-[submodule "sources/meta-qt5"]
-	path = sources/meta-qt5
-	url = https://github.com/meta-qt5/meta-qt5.git
-	branch = warrior
